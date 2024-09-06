@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **MatGrav/MatGrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Matteo and here you can find something about me.
+
+
+#### Education
+- Currently studying Ingegneria Informatica (Computer Engineering) Master Degree at Politecnico di Torino, Italy.
+- Bachelor's Degree in Ingegneria Informatica at Università Federico II in Naples, Italy.
+
+My current studies are focused on the "Automation and Intelligent Cyber-Physical Systems" pathway, with courses which span from Machine learning to Model-based software design and Vehicle elements.
