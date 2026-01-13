@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Matteo and here you can find something about me.
+I'm Matteo and here you can find something about me.
 
 
 #### Education
-- Currently studying Ingegneria Informatica (Computer Engineering) Master Degree at Politecnico di Torino, Italy.
-- Bachelor's Degree in Ingegneria Informatica at Università Federico II in Naples, Italy.
+- Master's Degree in  Ingegneria Informatica (Computer Engineering) at Politecnico di Torino, Italy. Acquired in October 2025.
+- Bachelor's Degree in Ingegneria Informatica at Università Federico II in Naples, Italy. Acquired in November 2022.
 
-My current studies are focused on the "Automation and Intelligent Cyber-Physical Systems" pathway, with courses which span from Machine learning to Model-based software design and Vehicle elements.
+Curious about software and its application to automotive and other industrial applications.
+My latest studies focused on the "Automation and Intelligent Cyber-Physical Systems" pathway, with courses spanning from Machine learning to Model-based software design and Vehicle elements.
